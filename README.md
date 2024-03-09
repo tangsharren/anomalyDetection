@@ -13,6 +13,6 @@
 # Step 4: Final model
 - Final model is trained with the best hyperparameters and best threshold using the best combination of the imputation method and sampling method dataset.
 
-Steps 2 to step 4 are repeated on the LOF model to identify the best LOF model
+**Steps 2 to step 4 are repeated on the LOF model to identify the best LOF model**
 
 
